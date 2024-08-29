@@ -1,0 +1,9 @@
+{
+  "texto": "El texto ha sido modificado",
+  "numero": 16,
+  "array": [
+    "uno",
+    "dos"
+  ],
+  "booleano": true
+}

@@ -1,0 +1,20 @@
+[
+{
+    "nombre" : "Jorge",
+    "email" : "jorge@email.com",
+    "edad" : 32,
+    "cursa" : true
+},
+{
+    "nombre" : "Ignacio",
+    "email" : "ignacio@email.com",
+    "edad" : 24,
+    "cursa" : false
+},
+{
+    "nombre" : "Carlos",
+    "email" : "carlos@email.com",
+    "edad" : 42,
+    "cursa" : true
+}
+]
